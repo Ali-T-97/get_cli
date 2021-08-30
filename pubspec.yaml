@@ -1,0 +1,43 @@
+name: get_cli
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.3.8
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  lints: 1.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
+
+  assets:
+    - assets/bottonBar/posts.png
+    - assets/bottonBar/chat.png
+    - assets/bottonBar/class.png
+    - assets/bottonBar/not.png
+    - assets/bottonBar/profile.png
+    - assets/image_post.jpg
+    - assets/image2.jpg
+    - assets/calendar.png
+    - assets/options/bank.png
+    - assets/options/book.png
+    - assets/options/exam.png
+    - assets/options/flash.png
+    - assets/options/here.png
+    - assets/options/homework.png
+    - assets/options/mark.png
+    - assets/options/money.png
+    - assets/options/q.png
+    - assets/options/table.png
+    - assets/options/action.png
+
